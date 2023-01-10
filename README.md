@@ -4,8 +4,8 @@ Mock REST API를 사용할 수 있게 해주는 [JSON Server](https://github.com
 
 Demo from this repository:
 
-1. https://json-server-in.vercel.app
-2. https://json-server-in.vercel.app/api/posts
+1. https://brad-json-server.vercel.app
+2. https://brad-json-server.vercel.app/api/capa
 
 ## Reference
 
