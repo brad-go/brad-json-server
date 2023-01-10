@@ -1,7 +1,7 @@
 {
-  "name": "json-server-vercel",
+  "name": "brad-json-server",
   "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
+  "description": "deploy json server to vercel",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
