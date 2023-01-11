@@ -9,7 +9,7 @@ server.use(middlewares);
 server.use(
   jsonServer.rewriter({
     "/api/*": "/$1",
-    "/capa/requests/:id": "/requests/:id",
+    "/capa/requests": "/requests",
     "/nara-space/users": "/users",
   })
 );
